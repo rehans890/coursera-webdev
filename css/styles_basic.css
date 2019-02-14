@@ -2,14 +2,14 @@ body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
-    background-color: #599e4b;
+    background-color: rgb(186, 225, 240);
 }
 
 
 /** HEADER **/
 
 #header-nav {
-    background-color: #c98715;
+    background-color: #c94815;
     border-radius: 0;
     border: 0;
 }
@@ -19,7 +19,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #fce29e;
+    background-color: #cbfc9e;
 }
 
 .navbar-collapse {
@@ -33,7 +33,7 @@ body {
 }
 
 .navbar-brand h1 {
-    color: #7d1913;
+    color: #4e74a0;
     font-family: 'Tangerine', cursive;
     font-weight: bolder;
     font-size: 1.8em;
@@ -44,18 +44,23 @@ body {
     text-shadow: 1px 1px 1px #fe9797;
 }
 
+
+
 #nav-list {
     background-color: #e4af34;
 }
 
+
+
+
 #nav-list a {
     font-weight: bolder;
-    color: #282828;
+    color: black;
     font-size: 1.2em;
 }
 
 #nav-list a:hover {
-    color: #202020;
+    color: black;
     background-color: #fce29e;
 }
 
@@ -88,8 +93,8 @@ body {
 }
 
 #main-section {
-    background-color: #82d06b;
-    box-shadow: 0 0 50px #0f5900;
+    background-color: skyblue;
+    box-shadow: 0 0 50px rgb(76, 130, 151);
     padding: 30px;
 }
 

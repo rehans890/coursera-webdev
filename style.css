@@ -47,7 +47,7 @@ section > p {
 
 section.chicken>h2 {
     border: 1px solid black;
-    background-color:tan;
+    background-color:orange;
     /* text-align: right;
     height: 20%;
     width: 20%; */
@@ -56,7 +56,7 @@ section.chicken>h2 {
 
 section.BBQ>h2 {
     border: 1px solid black;
-    background-color:red;
+    background-color:white;
     /* text-align: right;
     height: 20%;
     width: 20%; */
@@ -65,7 +65,7 @@ section.BBQ>h2 {
 
 section.sushi>h2 {
     border: 1px solid black;
-    background-color:blue;
+    background-color:navy;
     color: white;
     /* text-align: right;
     height: 20%;
