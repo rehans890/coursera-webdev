@@ -43,7 +43,7 @@ section > p {
 }
 
 
-/* Apply styles to h2 elements within a section and have the names chicken beef or sushi */ 
+/* Apply styles to h2 elements within a section and have the names chicken BBQ or sushi */ 
 
 section.chicken>h2 {
     border: 1px solid black;
@@ -54,7 +54,7 @@ section.chicken>h2 {
 
 }
 
-section.beef>h2 {
+section.BBQ>h2 {
     border: 1px solid black;
     background-color:red;
     /* text-align: right;
