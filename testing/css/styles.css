@@ -2,14 +2,14 @@ body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
-    background-color: rgb(186, 225, 240);
+    background-color: #599e4b;
 }
 
 
 /** HEADER **/
 
 #header-nav {
-    background-color: #c94815;
+    background-color: #c98715;
     border-radius: 0;
     border: 0;
 }
@@ -19,7 +19,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #cbfc9e;
+    background-color: #fce29e;
 }
 
 .navbar-collapse {
@@ -33,7 +33,7 @@ body {
 }
 
 .navbar-brand h1 {
-    color: #4e74a0;
+    color: #7d1913;
     font-family: 'Tangerine', cursive;
     font-weight: bolder;
     font-size: 1.8em;
@@ -44,23 +44,19 @@ body {
     text-shadow: 1px 1px 1px #fe9797;
 }
 
-
-
 #nav-list {
     background-color: #e4af34;
 }
 
-
-
-
 #nav-list a {
+    /*text-align: center;*/
     font-weight: bolder;
-    color: black;
+    color: #282828;
     font-size: 1.2em;
 }
 
 #nav-list a:hover {
-    color: black;
+    color: #202020;
     background-color: #fce29e;
 }
 
@@ -76,7 +72,7 @@ body {
 
 #main-content {
     width: 92%;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 
 #main-content h2 {
@@ -92,10 +88,13 @@ body {
     margin-bottom: 1em;
 }
 
-#main-section {
-    background-color: skyblue;
-    box-shadow: 0 0 50px rgb(76, 130, 151);
-    padding: 30px;
+#chicken-tile, #BBQ-tile, #sushi-tile {
+    width: 100%;
+    padding: 20px;
+    background-color: #99ed7b;
+    margin-bottom: 60px;
+    box-shadow: 0 0 80px #18580b;
 }
+
 
 /** END HOME PAGE **/
